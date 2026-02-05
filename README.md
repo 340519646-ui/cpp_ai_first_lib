@@ -6,12 +6,16 @@ This repository is used for learning modern C++.
 - Understand C++ memory model
 - Master STL containers and algorithms
 - Learn C++11/14/17/20 language features
-- Practice low-level performance optimization
+- Practice low-level performance optimization、
+- Future AI-assisted C++ development
 
 ## Structure
 - src/        : example source code
 - notes/      : learning notes
 - experiments/: small tests and benchmarks
+
+## Files
+- first.cpp: simple entry point with main function
 
 ## Build
 ```bash
