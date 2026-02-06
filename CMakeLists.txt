@@ -9,3 +9,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_executable(cpp_ai_first_lib
     src/main.cpp
 )
+add_executable(vector_growth
+    src/vector_growth.cpp
+)
