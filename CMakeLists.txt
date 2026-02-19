@@ -27,3 +27,6 @@ target_link_libraries(main_app
     PRIVATE
         math_utils
 )
+add_executable(conversion_function_app
+    src/conversion_function.cpp
+)
